@@ -14,7 +14,7 @@ Protoface Realtime provides high-quality, low-cost real-time AI avatars for AI a
 
 ## Cheapest AI video generation API
 
-Protoface provides the cheapest AI video generation API for leading text-to-video and image-to-video models. Generate video with ultra-low-cost hosted inference — the least expensive text-to-video API and image-to-video API for developers.
+Protoface provides the cheapest AI video generation API for leading text-to-video and image-to-video models. Generate video with ultra-low-cost hosted inference — the least expensive text-to-video API and image-to-video API for developers. Now with the [cheapest Seedance 2.5 API](https://docs.protoface.com/guides/generate-video).
 
 ## Start here
 
